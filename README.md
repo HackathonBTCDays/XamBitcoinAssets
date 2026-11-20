@@ -38,25 +38,9 @@ flowchart LR
   class G ok
 ```
 
-## 4. Check-list d'envoi
 
-- [ ] **Le dépôt GitHub est public** et son lien fonctionne en navigation privée.
-- [ ] La branche de ce dossier est fusionnée dans `main` (les liens d'images de l'histoire pointent vers `main`), sinon téléverser les images à la main.
-- [ ] Nom, accroche (moins de 200 caractères), histoire et étiquettes collés depuis [`02`](02-histoire-devpost.md).
-- [ ] Liens « Try it out » : `https://xambitcoin.com` répond, et le dépôt.
-- [ ] 15 images au plus, chacune sous 5 Mo, dans l'ordre de [`06`](06-captures-et-medias.md).
-- [ ] Vidéo : durée maximale confirmée sur la page « Rules », puis lien YouTube ou Vimeo.
-- [ ] Le Budget Learn contient assez de sats si un jury essaie la mission 3 (21 par compte).
-- [ ] `www.xambitcoin.com` ne se résout pas : ne l'écrire nulle part.
-- [ ] Aucun e-mail réel, adresse IP ni secret visible dans une image ou une vidéo.
-- [ ] Relire l'aperçu Devpost sur téléphone avant « Submit ».
-
-## 5. Trois règles de la présentation
+## 4. Trois règles de la présentation
 
 1. **Une idée par phrase**, des chiffres précis et petits.
 2. **Dire ce qui est réel avant qu'on le demande**, et ce qui est démonstration.
 3. **Ne rien promettre qui n'existe pas** : pas de mobile, pas d'IA qui explique, pas de mission 6 jouable.
-
-## 6. Sources dans le dépôt
-
-`XamBitcoin_Proposition_Concrete.md`, `docs/ROADMAP_NEXT_STEPS.md`, `docs/KNOWN_ISSUES.md`, `docs/DECISIONS.md`, `docs/BUSINESS_RULES.md`, `docs/DATABASE_MODEL.md`, `docs/TESTING.md`, `docs/DEPLOYMENT.md`, `docs/LESSONS_LEARNED.md`.
